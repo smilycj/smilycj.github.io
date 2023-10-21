@@ -1,13 +1,20 @@
-title: Chijioke E # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Documentation of Data analytics projects 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+title: <p align="center"> Chijioke E </p>
+
+logo: "/images/picture.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/chijioke/">LinkedIn</a> |
+  <a href="https://github.com/smilycj">GitHub</a>
+  </p>
   
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  <p align="justify">
+  An avid Data Analyst 
+  <br><br>
+  I am currently exploring supply chain projects 
+  <br><br>
+  </p>
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-145578661-1 # Google Analytics tracking ID
