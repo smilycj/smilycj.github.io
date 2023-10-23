@@ -4,7 +4,7 @@
 
 ### Data Analysis
 
-[Strategy for NY E-commerce Company]([NY-20E-commerce-20Company.html](https://github.com/smilycj/smilycj.github.io/blob/main/projects/NY%20E-commerce%20Company.html))
+[Strategy for NY E-commerce Company](https://github.com/smilycj/smilycj.github.io/blob/main/projects/NY%20E-commerce%20Company.html))
 <img src="images/NY-E-commerce.jpg?raw=true"/>
 
 ---
