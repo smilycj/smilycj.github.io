@@ -11,7 +11,7 @@
 
 <div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
 <br>
-<center><img src="images/NY ecommerce.JPG"/></center>
+<center><img src="images/ecommerce.JPG"/></center>
 <br>
 
 
