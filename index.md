@@ -11,6 +11,7 @@
 
 <div style="text-align: justify">I performed some EDA analysis to better understand the relationship between the variables and yearly amount  spent by customers.  Using a simple regression model I tried to predict using some test data. My model had Mean Absolute Error (MAE) of 7.2. It was seen that length of membership was strongly correlated to the yearly amount spent 
 <br>
+  
 <center><img src="images/ecommerce.JPG"/></center>
 <br>
 
