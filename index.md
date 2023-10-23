@@ -3,9 +3,15 @@
 ---
 
 ### Data Analysis
+[Strategy for NY E-commerce Company](https://github.com/smilycj/smilycj.github.io/blob/main/projects/NY-E-commerce-Company.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/NY-E-commerce-Company.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
 
-[Strategy for NY E-commerce Company](https://github.com/smilycj/smilycj.github.io/blob/main/projects/NY%20E-commerce%20Company.html)
-<img src="images/NY-E-commerce.jpg?raw=true"/>
+<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
+<br>
+<center><img src="images/NY E-commerce"/></center>
+<br>
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
