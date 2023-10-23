@@ -2,8 +2,10 @@
 
 ---
 
-### Data Analysis
-[Strategy for NY E-commerce Company](https://github.com/smilycj/smilycj.github.io/blob/main/projects/NY-E-commerce-Company.html)
+## Data Analysis
+
+### Strategy for NY E-commerce Company
+
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/NY-E-commerce-Company.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/smilycj/smilycj.github.io/blob/main/projects/NY-E-commerce-Company.ipynb)
 
