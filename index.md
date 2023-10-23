@@ -4,7 +4,7 @@
 
 ### Data Analysis
 
-[Project 1 Title](/sample_page)
+[Strategy for NY E-commerce Company](NY-20E-commerce-20Company.html)
 <img src="images/NY-E-commerce.jpg?raw=true"/>
 
 ---
