@@ -5,7 +5,7 @@
 ### Data Analysis
 
 [Project 1 Title](/sample_page)
-<img src="images/NY E-commerce.jpg?raw=true"/>
+<img src="images/NY-E-commerce.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
