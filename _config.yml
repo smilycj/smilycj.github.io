@@ -1,6 +1,7 @@
 title: <p align="center"> Chijioke E (CJ) </p>
  
-logo: <p align="center"> "/images/chijioke.jpg?raw=true" </p>
+logo: <img align="center"> "/images/chijioke.jpg?raw=true" 
+</img>
 description:
   <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
